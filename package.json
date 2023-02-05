@@ -1,0 +1,18 @@
+{
+  "name": "shopping-site",
+  "version": "1.0.0",
+  "description": "fashion items store",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Sankuri Naveen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mustache": "^4.2.0",
+    "mustache-express": "^1.3.2",
+    "nodemon": "^2.0.20"
+  }
+}

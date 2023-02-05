@@ -1,0 +1,77 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(120deg, rgb(14, 219, 215), rgb(37, 80, 207));
+    height: 300vh;
+
+}
+
+
+
+/* h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+    text-align: center;
+    font-weight: bold;
+}
+
+.login-form {
+    padding: 10px 50px;
+    border-radius: 10px;
+    align-items: center;
+    position: absolute;
+    border: 1px solid red;
+    margin-left: 70%;
+    margin-top: 160px;
+}
+
+.register-form {
+    width: 400px;
+    padding: 10px 50px;
+    border-radius: 10px;
+    align-items: center;
+    position: absolute;
+    border: 1px solid rgb(216, 197, 197);
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+.login-form h2 {
+    text-align: center;
+    padding: 10px 30px;
+}
+
+.logRegister {
+    font-weight: bold;
+    color: brown;
+}
+
+.logRegister a {
+    color: blue;
+} */
+
+.navbar {
+    position: absolute;
+    /* margin: 10px 20px; */
+    padding: 20px 20px;
+    width: 100%;
+    /* left: 35%; */
+}
+
+.sidebar {
+    position: absolute;
+    top: 11%;
+
+}
+
+.list-group {
+    height: 300vh;
+    background-color: aliceblue;
+    width: 300px;
+}
+
+.slideshow {
+    position: absolute;
+    left: 30%;
+    top: 20%;
+}
